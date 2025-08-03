@@ -1,5 +1,7 @@
 # 💼 SAIKET SYSTEMS – DATA ANALYSIS INTERNSHIP  
 ---
+## 🚀 PROJECT: CUSTOMER CHURN ANALYSIS AND PREDICTION
+---
 
 # 📊 Task 4 – Churn Prediction Model  
 **Domain:** Data Analysis  
